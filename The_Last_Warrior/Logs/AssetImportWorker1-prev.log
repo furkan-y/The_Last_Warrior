@@ -15,7 +15,7 @@ C:/Users/furka/My_Github/The_Last_Warrior/The_Last_Warrior
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-50192
+49604
 Successfully changed project path to: C:/Users/furka/My_Github/The_Last_Warrior/The_Last_Warrior
 C:/Users/furka/My_Github/The_Last_Warrior/The_Last_Warrior
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/furka/My_Github/The_Last_Warrior/The_Last_Warrior
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 137.87 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 124.85 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.2.10f1 (ee872746220e)
 [Subsystems] Discovering subsystems at path C:/Users/furka/Ana Programlar/Desktop/Unity Projects/Unity Kısayolları/2021.2.10f1/Editor/Data/Resources/UnitySubsystems
@@ -63,90 +63,90 @@ Initialize mono
 Mono path[0] = 'C:/Users/furka/Ana Programlar/Desktop/Unity Projects/Unity Kısayolları/2021.2.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Users/furka/Ana Programlar/Desktop/Unity Projects/Unity Kısayolları/2021.2.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Users/furka/Ana Programlar/Desktop/Unity Projects/Unity Kısayolları/2021.2.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Users/furka/Ana Programlar/Desktop/Unity Projects/Unity Kısayolları/2021.2.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012560 seconds.
+Registered in 0.011805 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 163.18 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 131.52 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.901 seconds
+- Completed reload, in  0.862 seconds
 Domain Reload Profiling:
-	ReloadAssembly (902ms)
-		BeginReloadAssembly (107ms)
+	ReloadAssembly (863ms)
+		BeginReloadAssembly (111ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (673ms)
-			LoadAssemblies (104ms)
+		EndReloadAssembly (637ms)
+			LoadAssemblies (107ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (139ms)
+			SetupTypeCache (147ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (425ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (385ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
+				InitializePlatformSupportModulesInManaged (21ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (163ms)
-				BeforeProcessingInitializeOnLoad (1ms)
+				RefreshPlugins (132ms)
+				BeforeProcessingInitializeOnLoad (2ms)
 				ProcessInitializeOnLoadAttributes (169ms)
-				ProcessInitializeOnLoadMethodAttributes (68ms)
+				ProcessInitializeOnLoadMethodAttributes (62ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009178 seconds.
+Registered in 0.009796 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\furka\My_Github\The_Last_Warrior\The_Last_Warrior\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\furka\My_Github\The_Last_Warrior\The_Last_Warrior\Library\PackageCache\com.unity.visualscripting@1.7.7\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 143.63 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 133.89 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 Package Manager log level set to [2]
-- Completed reload, in  2.508 seconds
+- Completed reload, in  2.619 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2509ms)
-		BeginReloadAssembly (169ms)
+	ReloadAssembly (2620ms)
+		BeginReloadAssembly (154ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (25ms)
-		EndReloadAssembly (2188ms)
-			LoadAssemblies (208ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (2332ms)
+			LoadAssemblies (120ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (332ms)
+			SetupTypeCache (301ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (89ms)
-			SetupLoadedEditorAssemblies (1492ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (1762ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
+				InitializePlatformSupportModulesInManaged (17ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (144ms)
-				BeforeProcessingInitializeOnLoad (147ms)
-				ProcessInitializeOnLoadAttributes (1119ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
-				AfterProcessingInitializeOnLoad (14ms)
+				RefreshPlugins (134ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (1411ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (13ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4119 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 57 unused Assets / (225.5 KB). Loaded Objects now: 4555.
 Memory consumption went from 153.7 MB to 153.5 MB.
-Total: 5.620900 ms (FindLiveObjects: 0.475100 ms CreateObjectMapping: 0.334700 ms MarkObjects: 4.599900 ms  DeleteObjects: 0.209000 ms)
+Total: 4.937500 ms (FindLiveObjects: 0.480000 ms CreateObjectMapping: 0.357200 ms MarkObjects: 3.894900 ms  DeleteObjects: 0.203200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -160,13 +160,79 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 417526.094476 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.012626 seconds 
+  Time since last request: 420359.227346 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(a7945b313d3ca534a9436ffec902e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(a7945b313d3ca534a9436ffec902e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2dbfb59c26a3f1f2cf3a669dd557c0e') in 0.010026 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Editor/com.unity.mobile.notifications
-  artifactKey: Guid(8d94ea3741ad8d344a76cca0aa62f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Editor/com.unity.mobile.notifications using Guid(8d94ea3741ad8d344a76cca0aa62f67e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d596b89d013a0a0f6958b751d61d4f') in 0.003129 seconds 
+  Time since last request: 2188.766717 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0002.png
+  artifactKey: Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0002.png using Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7d57549ae4d0da638e69e9b76a9061') in 0.152913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0003.png
+  artifactKey: Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0003.png using Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14028df817c2f59e2e09490ab6ff7246') in 0.021433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/5-Sprites/Player/soldier_torso_1h.png
+  artifactKey: Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_torso_1h.png using Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13aea9ca8cad1be1a8234e38795b59e') in 0.025493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.003399 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0002.png
+  artifactKey: Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0002.png using Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6919e999336bdef3d9c9c02ed11edf2') in 0.017240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0003.png
+  artifactKey: Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0003.png using Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca613adcd8e17e76c5be18fc5220083') in 0.013217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/5-Sprites/Player/soldier_torso_1h.png
+  artifactKey: Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_torso_1h.png using Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672ef63837ab5f50e49ac1d7368e3129') in 0.020341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.860699 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0002.png
+  artifactKey: Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0002.png using Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39f2da1eac1ecb699ce8c9a32fa624a') in 0.020521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0003.png
+  artifactKey: Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0003.png using Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd9eae4088f3824a11a52b7928c765b') in 0.014247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/5-Sprites/Player/soldier_torso_1h.png
+  artifactKey: Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_torso_1h.png using Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13729fea020f6da7fea4382236b6223b') in 0.015973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.882851 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0002.png
+  artifactKey: Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0002.png using Guid(a7f7f12b2fbcd5545a322983870ff959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b85a6e7b399bae3c48f9ad14a9fd9653') in 0.015558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/5-Sprites/Player/soldier_legs_0003.png
+  artifactKey: Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_legs_0003.png using Guid(24919025697deaa4b810b78cc43b5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec2f92c151518e2b64d51f0cba9a484') in 0.023576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/5-Sprites/Player/soldier_torso_1h.png
+  artifactKey: Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Sprites/Player/soldier_torso_1h.png using Guid(4e24e80d1668fd44abf617be8a123612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91936b8c474df4839551b2823d49a47') in 0.017034 seconds 
