@@ -38,6 +38,10 @@ sysinfo.txt
 .Trashes
 Icon?
 ehthumbs.db
+<<<<<<< HEAD
 Thumbs.db
 *.log
 *.log
+=======
+Thumbs.db
+>>>>>>> parent of 5c06e05 (Update .gitignore)
